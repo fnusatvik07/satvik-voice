@@ -44,4 +44,4 @@ real speech (real voice compared to itself scores 0.972).
 ## Responsible use
 
 Outputs carry Resemble's inaudible Perth watermark. Disclose AI narration on YouTube.
-This voice belongs to Satvik, so keep the repo private.
+This voice belongs to Satvik. Do not use it to impersonate them or to say things they have not approved.
